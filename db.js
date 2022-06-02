@@ -1,6 +1,6 @@
-const db = require("./data/db")
-const db = require("./data/user")
-const db = require("./data/log")
+const db = require("./data/db");
+const user = require("./data/user");
+const log = require("./data/log");
 
 module.exports = {
   db,

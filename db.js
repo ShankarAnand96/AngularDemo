@@ -1,7 +1,11 @@
 const db = require("./data/db")
+const db = require("./data/user")
+const db = require("./data/log")
 
 module.exports = {
-  db
+  db,
+  user,
+  log
 }
 
 

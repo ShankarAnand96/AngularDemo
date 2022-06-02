@@ -1,0 +1,322 @@
+[
+    {
+      "name": "Vendor2",
+      "mail": "Vendor1@gmail.com",
+      "phone": 9875432103,
+      "dob": "2022-05-14",
+      "id": 100,
+      "role": "vendor"
+    },
+    {
+      "name": "Vendor2",
+      "mail": "Vendor2@vendor.com",
+      "phone": 9875432101,
+      "dob": "2000-01-01",
+      "id": 200,
+      "role": "vendor"
+    },
+    {
+      "id": 300,
+      "name": "Vendor3",
+      "mail": "Vendor3@gmail.com",
+      "role": "vendor",
+      "phone": 987543210,
+      "dob": "01-01-2000"
+    },
+    {
+      "name": "Vendor-4",
+      "mail": "Vendorhm4@gmail.com",
+      "phone": 9875432223,
+      "dob": "2022-05-25",
+      "id": 400,
+      "role": "vendor"
+    },
+    {
+      "name": "Vendor5",
+      "mail": "Vendor5@gmail.com",
+      "phone": 987543210,
+      "dob": "2022-05-12",
+      "id": 500,
+      "role": "vendor"
+    },
+    {
+      "name": "Vendor-77",
+      "mail": "Vendor7@gmail.com",
+      "phone": 9875432111,
+      "dob": "2022-05-22",
+      "id": 700,
+      "role": "vendor"
+    },
+    {
+      "name": "vendor008",
+      "mail": "Vendor8@gmail.com",
+      "phone": 9875432101,
+      "dob": "2000-01-01",
+      "id": 800,
+      "role": "vendor"
+    },
+    {
+      "name": "108 Driver",
+      "mail": "108.Driver@gmail.com",
+      "phone": 9876543210,
+      "dob": "2022-05-21",
+      "id": 101,
+      "role": "driver"
+    },
+    {
+      "name": "Driver 202",
+      "mail": "Driver202@gmail.com",
+      "phone": 9875432100,
+      "dob": "2000-01-01",
+      "id": 202,
+      "role": "driver"
+    },
+    {
+      "id": 303,
+      "name": "Driver 303",
+      "mail": "303Driver@gmail.com",
+      "role": "driver",
+      "phone": 987543210,
+      "dob": "01-01-2000"
+    },
+    {
+      "name": "Driver 404",
+      "mail": "404Driver@gmail.com",
+      "phone": 987543210,
+      "dob": "2022-05-02",
+      "id": 404,
+      "role": "driver"
+    },
+    {
+      "id": 505,
+      "name": "Driver 505",
+      "mail": "505Driver@gmail.com",
+      "role": "driver",
+      "phone": 987543210,
+      "dob": "01-01-2000"
+    },
+    {
+      "id": 606,
+      "name": "Driver 606",
+      "mail": "606Driver@gmail.com",
+      "role": "driver",
+      "phone": 987543210,
+      "dob": "01-01-2000"
+    },
+    {
+      "name": "Driver 808",
+      "mail": "808Driver@gmail.com",
+      "phone": 9875432101,
+      "dob": "2000-01-01",
+      "id": 808,
+      "role": "driver"
+    },
+    {
+      "name": "ZCustomer z005",
+      "mail": "005.Customer@gmail.co",
+      "phone": 9875432101,
+      "dob": "2022-05-21",
+      "id": 555,
+      "role": "customer"
+    },
+    {
+      "name": "Customer 806",
+      "mail": "006Customer@gmail.com",
+      "phone": 9875432102,
+      "dob": "2022-05-19",
+      "id": 666,
+      "role": "customer"
+    },
+    {
+      "name": "Customer 007",
+      "mail": "007Customer@gmail.com",
+      "phone": 9875432100,
+      "dob": "2000-01-01",
+      "id": 777,
+      "role": "customer"
+    },
+    {
+      "name": "",
+      "mail": "",
+      "phone": "",
+      "dob": "",
+      "role": "",
+      "id": 247110
+    },
+    {
+      "name": "Gwen123",
+      "mail": "gwen123@customer.com",
+      "phone": 9889056734,
+      "dob": "2022-05-12",
+      "id": 857403,
+      "role": "customer"
+    },
+    {
+      "name": "Naruto",
+      "mail": "vendor@vendor.in",
+      "phone": 6768778677,
+      "dob": "2022-05-19",
+      "role": "vendor",
+      "id": 311493
+    },
+    {
+      "name": "Custom customer",
+      "mail": "qweqweeqwwe@qwdw.com",
+      "phone": 1234567890,
+      "dob": "2022-05-13",
+      "id": 184282,
+      "role": "customer"
+    },
+    {
+      "name": "S Arjun",
+      "mail": "arjun.Customer@gmail.com",
+      "phone": 2222222222,
+      "dob": "2022-05-12",
+      "id": 238648,
+      "role": "customer"
+    },
+    {
+      "name": "Hitesh",
+      "mail": "hitesh@customer.com",
+      "phone": 8564231890,
+      "dob": "2022-05-19",
+      "role": "customer",
+      "id": 832348
+    },
+    {
+      "name": "Rohit",
+      "mail": "rohithkhan123@gmx.com",
+      "phone": 4545321787,
+      "dob": "2022-05-27",
+      "id": 1079401,
+      "role": "driver"
+    },
+    {
+      "name": "Rohit Sharma",
+      "mail": "hitman@customer.com",
+      "phone": 5672341098,
+      "dob": "2022-05-21",
+      "role": "customer",
+      "id": 260116
+    },
+    {
+      "name": "Virat",
+      "mail": "virat@customer.com",
+      "phone": 9988776655,
+      "dob": "2022-05-19",
+      "role": "customer",
+      "id": 569517
+    },
+    {
+      "name": "Dhoni",
+      "mail": "dhoni@customer.com",
+      "phone": 7765443211,
+      "dob": "2022-05-19",
+      "role": "customer",
+      "id": 394315
+    },
+    {
+      "name": "Sush",
+      "mail": "driver@sush.in",
+      "phone": 7679897778,
+      "dob": "2022-05-26",
+      "role": "driver",
+      "id": 532192
+    },
+    {
+      "name": "rambo",
+      "mail": "rambo@bmx.com",
+      "phone": 4235612323,
+      "dob": "2022-05-17",
+      "role": "driver",
+      "id": 666494
+    },
+    {
+      "name": "Jazz",
+      "mail": "jazz@bmx.com",
+      "phone": 5655617217,
+      "dob": "2022-05-17",
+      "role": "driver",
+      "id": 168004
+    },
+    {
+      "name": "Mitsubishi",
+      "mail": "admin@mitsubishi",
+      "phone": 9987766655,
+      "dob": "2022-05-26",
+      "role": "vendor",
+      "id": 900772
+    },
+    {
+      "name": "Carlson",
+      "mail": "admin@carlson.com",
+      "phone": 7864532100,
+      "dob": "2022-05-05",
+      "role": "vendor",
+      "id": 172106
+    },
+    {
+      "name": "Tsugami",
+      "mail": "support@tsugami.com",
+      "phone": 5564223199,
+      "dob": "2022-05-16",
+      "role": "vendor",
+      "id": 114077
+    },
+    {
+      "name": "Ronaldo",
+      "mail": "ronaldo@customer.com",
+      "phone": 9898764532,
+      "dob": "2022-05-28",
+      "role": "customer",
+      "id": 997520
+    },
+    {
+      "name": "Sudhakar",
+      "mail": "sudhakar@yts.com",
+      "phone": 9988775462,
+      "dob": "2022-05-14",
+      "role": "customer",
+      "id": 998843
+    },
+    {
+      "name": "Samsung",
+      "mail": "support.admin@samsung.com",
+      "phone": 7676452319,
+      "dob": "2022-05-12",
+      "role": "vendor",
+      "id": 420499
+    },
+    {
+      "name": "Muthu",
+      "mail": "muthu@customer.com",
+      "phone": 9987564231,
+      "dob": "2022-05-19",
+      "role": "customer",
+      "id": 751794
+    },
+    {
+      "name": "Fabilion",
+      "mail": "fab@customer.com",
+      "phone": 6871223401,
+      "dob": "2022-05-20",
+      "role": "customer",
+      "id": 779816
+    },
+    {
+      "name": "Rahul",
+      "mail": "rahul@customer.com",
+      "phone": 8865725141,
+      "dob": "2010-06-10",
+      "role": "customer",
+      "id": 228699
+    },
+    {
+      "name": "Shankar Anand",
+      "mail": "shankaranand@customer.com",
+      "phone": 9897653421,
+      "dob": "2022-06-16",
+      "role": "customer",
+      "id": 977687
+    }
+  ]
